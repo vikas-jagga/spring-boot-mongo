@@ -2,7 +2,7 @@
 Spring Boot MongoDb CURD operations
 
 Project uses MongoDB running on default port "27017"
-Database name "User" with 2 collections "User" and "db_sequence".
+having Database name "User" with 2 collections "User" and "db_sequence".
 You can edit database name and port in application.properties file in "src\main\resources"
 
 1. Download the project
