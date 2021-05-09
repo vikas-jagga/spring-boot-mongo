@@ -1,5 +1,5 @@
 # spring-boot-mongo
-Spring Boot MongoDb CURD operations
+Spring Boot MongoDb CRUD operations
 
 Project uses MongoDB running on default port "27017"
 having Database name "User" with 2 collections "User" and "db_sequence".
