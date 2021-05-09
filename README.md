@@ -8,5 +8,5 @@ You can edit database name and port in application.properties file in "src\main\
 1. Download the project
 2. Goto project folder with pom.xml
 3. Open Command prompt for pom.xml location
-4. Run command mvn spring-boot:run
+4. Run command "mvn spring-boot:run"
 5. Access the swagger URL http://localhost:8080/swagger-ui/
